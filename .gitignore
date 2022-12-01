@@ -1,9 +1,0 @@
-QSM/QSM-MEDI_toolbox/MEDI_data
-.ipynb_checkpoints/
-registration/.ipynb_checkpoints/
-scripts/.ipynb_checkpoints/
-scripts/TEs_avg.ipynb
-*.asv
-__pycache__/
-*.py[cod]
-*Untitled*
