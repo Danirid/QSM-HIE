@@ -88,4 +88,4 @@ Scripts can also be run individually.
 #### Scripts:
 The scripts folder contains an series of scripts that could be useful to the process; such as biased field correction, nifti2gif, contrast enhancement, ect.
 
-##Files organized by Noée Ducros-Chabot
+## Files organized by Noée Ducros-Chabot
