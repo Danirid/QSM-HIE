@@ -86,7 +86,7 @@ for t = 1:size(uphas, 4)
     uphas(:,:,:,t) = uphas(:,:,:,t) ./ (B0 * GYRO * TEs(t));
 end
 
-uphas = mean(uphas,4); %combining TE images
+uphas = average(uphas,4); %combining TE images
 %%
 % remove non-harmonic background fields
 disp('Removing non-harmonic background fields...');
