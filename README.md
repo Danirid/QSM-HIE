@@ -1,4 +1,6 @@
 # QSM-HIE
+**Last Updated: August 2021**
+
 This project aims to develop and compare an image reconstruction pipeline to assess brain oxygenation in neonatal asphyxia using quantitative susceptibility mapping (QSM)
 The basic steps of this project consist of: 
 - Applying QSM.m on a datasets. 
