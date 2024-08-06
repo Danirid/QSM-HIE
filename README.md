@@ -1,4 +1,3 @@
-### Co-authur Noée Ducros-Chabot
 # QSM-HIE
 This project aims to develop and compare an image reconstruction pipeline to assess brain oxygenation in neonatal asphyxia using quantitative susceptibility mapping (QSM)
 The basic steps of this project consist of: 
@@ -88,5 +87,7 @@ Scripts can also be run individually.
 
 #### Scripts:
 The scripts folder contains an series of scripts that could be useful to the process; such as biased field correction, nifti2gif, contrast enhancement, ect.
+
+### Co-author [![GitHub Logo](https://img.shields.io/badge/GitHub-Daniel_Ridani-2f80ed?style=flat&logo=github&logoColor=white)](https://github.com/Danirid)
 
 
